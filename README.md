@@ -24,3 +24,5 @@ Reghack on wdr4310v1
 * [[OpenWrt-Devel] [OpenWrt-Users] Compile OpenWRT with channels from 2.3 GHz - 2.7 GHz to Ubiquiti (ar71xx)](https://www.mail-archive.com/openwrt-devel@lists.openwrt.org/msg40873.html)
 * [Using WiFi Atheros chips in hamradio bands](http://yo3iiu.ro/blog/?p=1301)
 * [Modifying Consumer Off the Shelf Wireless LAN devices for specialized amateur use](https://www.qsl.net/kb9mwr/projects/wireless/modify.html#atheros)
+* [List of WLAN channels](https://en.wikipedia.org/wiki/List_of_WLAN_channels)
+* [802.11 Wi-Fi Physical Layer and Transmitter Measurements](https://download.tek.com/document/Online%20version%2037W-29687-0%20802.11_WiFi_Poster_HR.pdf)
