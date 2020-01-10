@@ -17,6 +17,7 @@ Reghack on wdr4310v1
 ## References
 * [bittorf/kalua](https://github.com/bittorf/kalua/tree/master/openwrt-patches/reghack)
 * [BigNerd95/ARTool](https://github.com/BigNerd95/ARTool)
+* [How to restore ART partition](https://openwrt.org/docs/guide-user/installation/restore_art_partition)
 * [Atheros ART power limit bypass, linux regulatory will be applied](https://gist.github.com/BigNerd95/6ad73f59e19169ac0f95dbf3b9a272ac)
 * [Atheros Country Code ART bypass passing a custom Country Name when loading the driver ](https://gist.github.com/BigNerd95/0be0a5b52a16524a78fc768f0d208a74)
 * [Atheros ART bypass reading the modified dump from /etc/config/my_eeprom](https://gist.github.com/BigNerd95/f06f14d46fa76ccaf519940592428c53)
