@@ -5,7 +5,7 @@ Reghack on wdr4310v1
 * Using this improperly may violate the radio regulations of your country. Only use it when restrictions in your router are stricter than the regulations.
 * For some reason, some channels like 14 in 2.4g and 100 in 5g are not working even with these patches. It is either due to other restrictions in drivers or hardwares, or my computer and phone simply do not detect signals at those channels.
 * Boosting tx power from 24 dBm to 30 dBm backfires. In my case at 5g it resulted in worse transmitting rate (from 260 Mbps to 150 Mbps).
-* ART files are only for my own device. It is better to generate it for youself or use the patch at [Atheros ART bypass reading the modified dump from /etc/config/my_eeprom](https://gist.github.com/BigNerd95/f06f14d46fa76ccaf519940592428c53).
+* ART files are only for my own device. It is better to generate it for youself by using [BigNerd95/ARTool](https://github.com/BigNerd95/ARTool), or use the patch at [Atheros ART bypass reading the modified dump from /etc/config/my_eeprom](https://gist.github.com/BigNerd95/f06f14d46fa76ccaf519940592428c53).
 
 ## Tested Versions
 | package | version | commit |
